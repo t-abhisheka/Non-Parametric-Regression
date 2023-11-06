@@ -1,0 +1,3 @@
+Enhancing the performance of recovery of phosphorus and nitrogen from anaerobically treated wastewater
+
+Here, we are run set of batch experiments using synthetic wastewater simulating the anaerobically treated rubber wastewater to enhance the removal efficiency of nitrogen and phospherous while recovering nutrients as NH4MgPO4 (Struvite) and combining the precipitation with stripping and recovering ammonia as Ammonium Sulfate.
